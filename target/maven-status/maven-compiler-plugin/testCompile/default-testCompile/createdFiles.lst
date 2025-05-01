@@ -1,4 +1,4 @@
 steps/LoginSteps.class
-runners/TestNGCucumberRunner.class
+runners/TestRunner.class
 pages/LoginPage.class
 steps/Hooks.class
